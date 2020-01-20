@@ -1,0 +1,11 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation project(path: ':Desktop')
+    implementation project(path: ':EngineInterface')
+    implementation project(path: ':Logic')
+}
+
+sourceCompatibility = "7"
+targetCompatibility = "7"
