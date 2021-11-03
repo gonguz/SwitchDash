@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: SwitchDash.SwitchDashDesktop.SwitchDashDesktop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SwitchDashDesktop/build/libs/SwitchDashDesktop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

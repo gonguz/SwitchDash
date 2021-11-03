@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SwitchDash.iml" filepath="$PROJECT_DIR$/.idea/SwitchDash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android/SwitchDash.Android.iml" filepath="$PROJECT_DIR$/.idea/modules/Android/SwitchDash.Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Desktop/SwitchDash.Desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/Desktop/SwitchDash.Desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EngineInterface/SwitchDash.EngineInterface.iml" filepath="$PROJECT_DIR$/.idea/modules/EngineInterface/SwitchDash.EngineInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Logic/SwitchDash.Logic.iml" filepath="$PROJECT_DIR$/.idea/modules/Logic/SwitchDash.Logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SwitchDashAndroid/SwitchDash.SwitchDashAndroid.iml" filepath="$PROJECT_DIR$/.idea/modules/SwitchDashAndroid/SwitchDash.SwitchDashAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SwitchDashDesktop/SwitchDash.SwitchDashDesktop.iml" filepath="$PROJECT_DIR$/.idea/modules/SwitchDashDesktop/SwitchDash.SwitchDashDesktop.iml" />
+    </modules>
+  </component>
+</project>

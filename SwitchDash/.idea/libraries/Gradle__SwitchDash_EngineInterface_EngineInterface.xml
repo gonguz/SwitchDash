@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: SwitchDash.EngineInterface.EngineInterface">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EngineInterface/build/libs/EngineInterface.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
